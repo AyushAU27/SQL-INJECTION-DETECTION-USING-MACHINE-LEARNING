@@ -6,10 +6,20 @@ This project implements a machine learning-based approach to detect SQL Injectio
  ## Features
 
 Real-time SQL query analysis
+
+
 Machine learning-based detection engine
+
+
 Support for multiple SQL query types
+
+
 Low false-positive rate
+
+
 Detailed attack logging and reporting
+
+
 Easy integration with existing web applications
 
 ## DATASET LINK:
