@@ -2,7 +2,8 @@ SQl INJECTION DETECTION USING MACHINE LEARNING
 
 Overview
 This project implements a machine learning-based approach to detect SQL Injection attacks in web application queries. By analyzing query patterns and characteristics, the system can identify potential SQL injection attempts with high accuracy, helping protect web applications from malicious attacks.
-Features
+ 
+ Features
 
 Real-time SQL query analysis
 Machine learning-based detection engine
